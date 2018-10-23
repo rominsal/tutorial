@@ -1,1 +1,3 @@
 # Example of file to check push between Rstudio and Github
+# Now, I do some changes....
+a <- 4
