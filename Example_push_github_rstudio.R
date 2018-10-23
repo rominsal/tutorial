@@ -1,0 +1,1 @@
+# Example of file to check push between Rstudio and Github
